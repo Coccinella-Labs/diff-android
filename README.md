@@ -1,11 +1,7 @@
 <!-- SPDX-License-Identifier: LicenseRef-DIFF -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bniladridas/diff-android/main/docs/assets/diff-sign-light.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bniladridas/diff-android/main/docs/assets/diff-sign.png">
-    <img src="https://raw.githubusercontent.com/bniladridas/diff-android/main/docs/assets/diff-sign.png" alt="DIFF Android icon" width="96" height="96">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/diff-android/main/.github/assets/thumbnail.png" alt="DIFF Android" width="100%">
 </p>
 
 # DIFF Android
