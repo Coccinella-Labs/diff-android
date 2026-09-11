@@ -108,7 +108,7 @@ import com.bniladridas.diff.ui.theme.TextMuted
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
-private const val SystemOwner = "harpertoken"
+private const val SystemOwner = "coccinella-labs"
 private const val SystemRepo = "harper"
 
 private enum class MobilePane {
